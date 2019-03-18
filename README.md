@@ -5,7 +5,7 @@ This library is created as an example of learning how to publish my own Python p
 
 ## installing this package from Github
 
-`pip install git+`
+`pip install git+https://github.com/zingm/mypackage.git`
 
 ## updating this package from Github
- `pip install --upgrade git+`
+ `pip install --upgrade git+https://github.com/zingm/mypackage.git`
